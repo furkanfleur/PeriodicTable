@@ -3,7 +3,6 @@ package com.example.melahat.periodictable;
 import android.content.Intent;
 import android.graphics.Typeface;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.TableRow;
 import android.widget.TextView;
@@ -58,13 +57,10 @@ public class MainActivity extends AppCompatActivity {
 
                 tableRow.addView(view);
 
-                //tableRow.addView(new ElementView(this, element));
             }
 
             binding.tableLayout.addView(tableRow);
         }
-
-        Log.d("", "");
     }
 
     private void openDetailPage(PeriodicTable.Element element) {
