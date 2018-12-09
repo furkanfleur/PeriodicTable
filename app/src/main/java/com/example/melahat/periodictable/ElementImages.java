@@ -23,8 +23,18 @@ public class ElementImages {
             )
     );
 
+    public static List<Integer> colorList = Arrays.asList(
+            R.color.black,
+            R.color.black,
+            R.color.black
+    );
+
     public static List<Integer> getImagesByAtomicNumber(int atomicNumber) {
         return imageList.get(atomicNumber - 1);
+    }
+
+    public static Integer getColorsByAtomicNumber(int atomicNumber) {
+        return colorList.get(atomicNumber - 1);
     }
 
 }
