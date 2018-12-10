@@ -3,8 +3,18 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
-
     <color name="black">#000000</color>
     <color name="gray_300">#E0E0E0</color>
     <color name="gray_50">#FAFAFA</color>
+    <color name="periodic_blue">#399ef7</color>
+    <color name="periodic_light_blue">#5ddbe6</color>
+    <color name="periodic_yellow">#f2d336</color>
+    <color name="periodic_purple">#914ffc</color>
+    <color name="periodic_light_purple">#cb9df5</color>
+    <color name="periodic_green">#62c75d</color>
+    <color name="periodic_orange">#ea7449</color>
+    <color name="periodic_red">#e4473f</color>
+    <color name="periodic_bluish">#70d2cb</color>
+    <color name="periodic_greenish">#77e78f</color>
+    <color name="app_background">#f2eacf</color>
 </resources>

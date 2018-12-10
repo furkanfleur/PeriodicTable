@@ -4,6 +4,7 @@
     xmlns:attrs="http://schemas.android.com/tools">
 
     <ScrollView
+        android:background="@color/app_background"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -14,8 +15,8 @@
 
             <androidx.viewpager.widget.ViewPager
                 android:id="@+id/viewPager"
-                android:layout_width="200dp"
-                android:layout_height="200dp"
+                android:layout_width="230dp"
+                android:layout_height="230dp"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginTop="8dp"
@@ -150,7 +151,7 @@
                 android:text="@string/element_description"
                 android:textColor="@color/black"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/element_boil" />
+                app:layout_constraintTop_toBottomOf="@+id/viewPager" />
 
             <TextView
                 android:id="@+id/element_text"
@@ -292,14 +293,15 @@
             <ImageButton
                 android:id="@+id/imageButton"
                 style="@style/Widget.AppCompat.ImageButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
                 android:background="@null"
+                android:scaleType="fitCenter"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:srcCompat="@mipmap/ic_launcher_round" />
+                app:srcCompat="@drawable/wikipedi" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>

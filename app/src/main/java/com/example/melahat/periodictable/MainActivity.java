@@ -6,11 +6,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TableRow;
 import android.widget.TextView;
+
+import com.example.melahat.periodictable.databinding.ActivityMainBinding;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
 import androidx.core.util.Pair;
 import androidx.databinding.DataBindingUtil;
-import com.example.melahat.periodictable.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -51,12 +53,14 @@ public class MainActivity extends AppCompatActivity {
                     name.setTypeface(name.getTypeface(), Typeface.BOLD);
                     symbol.setVisibility(View.GONE);
                     atomicMass.setVisibility(View.GONE);
+                    cardView.setBackgroundColor(getResources().getColor(ElementImages.getColorsByAtomicNumber(57)));
                 } else if (i == 6 && j == 2) {
                     atomicNumber.setText(R.string.actinides_range);
                     name.setText(R.string.actinides);
                     name.setTypeface(name.getTypeface(), Typeface.BOLD);
                     symbol.setVisibility(View.GONE);
                     atomicMass.setVisibility(View.GONE);
+                    cardView.setBackgroundColor(getResources().getColor(ElementImages.getColorsByAtomicNumber(89)));
                 } else {
                     view.setVisibility(View.INVISIBLE);
                 }
