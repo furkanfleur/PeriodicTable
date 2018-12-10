@@ -15,4 +15,5 @@
     <string name="element_boil">Kaynama :</string>
     <string name="element_description">Açıklama</string>
     <string name="element_melt">Erime :</string>
+    <string name="element_phase">Faz :</string>
 </resources>

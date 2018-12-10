@@ -78,7 +78,13 @@ public class ElementDetailActivity extends AppCompatActivity {
             binding.meltText.setText("-");
         }
 
-        binding.descriptionText.setText(element.summary);
+        if (element.phase != null) {
+            holder = element.phase.substring(0, 1).toUpperCase() + element.phase.substring(1);
+            binding.phaseText.setText(holder);
+        } else {
+            binding.meltText.setText("-");
+        }
 
+        binding.descriptionText.setText(element.summary);
     }
 }

@@ -13,5 +13,6 @@
     <string name="element_density">Density :</string>
     <string name="element_boil">Boils At :</string>
     <string name="element_melt">Melts At :</string>
+    <string name="element_phase">Phase :</string>
     <string name="element_description">Description</string>
 </resources>
