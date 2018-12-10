@@ -9,6 +9,7 @@
         android:padding="@dimen/element_box_padding">
 
         <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardView"
             android:layout_width="@dimen/element_box_size_width"
             android:layout_height="@dimen/element_box_size_height"
             app:cardCornerRadius="@dimen/element_box_corner_radius"

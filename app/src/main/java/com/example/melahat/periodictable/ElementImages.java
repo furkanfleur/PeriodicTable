@@ -20,13 +20,627 @@ public class ElementImages {
                     R.drawable.ic_launcher_background,
                     R.drawable.ic_launcher_background,
                     R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ),
+            Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
+            ), Arrays.asList(
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background,
+                    R.drawable.ic_launcher_background
             )
     );
 
     public static List<Integer> colorList = Arrays.asList(
-            R.color.black,
-            R.color.black,
-            R.color.black
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300,
+            R.color.gray_300
     );
 
     public static List<Integer> getImagesByAtomicNumber(int atomicNumber) {

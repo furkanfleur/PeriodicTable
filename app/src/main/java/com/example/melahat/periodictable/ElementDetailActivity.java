@@ -1,11 +1,11 @@
 package com.example.melahat.periodictable;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
-
-import com.example.melahat.periodictable.databinding.ActivityElementDetailBinding;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
+import com.example.melahat.periodictable.databinding.ActivityElementDetailBinding;
 
 public class ElementDetailActivity extends AppCompatActivity {
 
@@ -86,5 +86,15 @@ public class ElementDetailActivity extends AppCompatActivity {
         }
 
         binding.descriptionText.setText(element.summary);
+
+        ViewPagerAdapter adapter = new ViewPagerAdapter(ElementImages.getImagesByAtomicNumber(element.number));
+        binding.viewPager.setAdapter(adapter);
+
+        binding.imageButton.setOnClickListener(v -> {
+            String url = element.source;
+            Intent i = new Intent(Intent.ACTION_VIEW);
+            i.setData(Uri.parse(url));
+            startActivity(i);
+        });
     }
 }

@@ -4,9 +4,9 @@
     <string name="lanthanides_range">57–71</string>
     <string name="actinides">Actinides</string>
     <string name="actinides_range">89–103</string>
-    <string name="elemenent_name">Element :</string>
+    <string name="element_name">Element :</string>
     <string name="element_category">Category :</string>
-    <string name="element_appereance">Appereance :</string>
+    <string name="element_appearance">Appearance :</string>
     <string name="element_discoverer">Discoverer :</string>
     <string name="element_namer">Named by :</string>
     <string name="element_mass">Atomic Mass :</string>

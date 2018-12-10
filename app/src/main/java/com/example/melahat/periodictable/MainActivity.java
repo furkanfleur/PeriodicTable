@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.TableRow;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.cardview.widget.CardView;
 import androidx.core.util.Pair;
 import androidx.databinding.DataBindingUtil;
 import com.example.melahat.periodictable.databinding.ActivityMainBinding;
@@ -28,6 +29,11 @@ public class MainActivity extends AppCompatActivity {
             for (int j = 0; j <= dimensions.second; j++) {
                 PeriodicTable.Element element = periodicTable.getElementAtIndex(i, j);
                 View view = getLayoutInflater().inflate(R.layout.layout_element, null);
+
+                CardView cardView = view.findViewById(R.id.cardView);
+                if (element != null)
+                    cardView.setBackgroundColor(getResources().getColor(ElementImages.getColorsByAtomicNumber(element.number)));
+
                 TextView atomicNumber = view.findViewById(R.id.element_atomic_number);
                 TextView symbol = view.findViewById(R.id.element_symbol);
                 TextView atomicMass = view.findViewById(R.id.element_atomic_mass);

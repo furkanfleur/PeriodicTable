@@ -5,9 +5,9 @@
     <string name="lanthanides_range">57–71</string>
     <string name="actinides_range">89–103</string>
     <string name="actinides">Aktinitler</string>
-    <string name="elemenent_name">Element :</string>
+    <string name="element_name">Element :</string>
     <string name="element_category">Kategori :</string>
-    <string name="element_appereance">Görünüş :</string>
+    <string name="element_appearance">Görünüş :</string>
     <string name="element_discoverer">Keşfeden :</string>
     <string name="element_namer">İsimlendiren :</string>
     <string name="element_mass">Atomik Kütle :</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:attrs="http://schemas.android.com/tools">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -21,16 +22,34 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
+            <com.rd.PageIndicatorView
+                android:id="@+id/pageIndicatorView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginBottom="8dp"
+                app:layout_constraintBottom_toBottomOf="@+id/viewPager"
+                app:layout_constraintEnd_toEndOf="@+id/viewPager"
+                app:layout_constraintStart_toStartOf="@+id/viewPager"
+                app:piv_animationType="slide"
+                app:piv_dynamicCount="true"
+                app:piv_interactiveAnimation="true"
+                app:piv_selectedColor="@color/gray_50"
+                app:piv_unselectedColor="@color/gray_300"
+                app:piv_viewPager="@id/viewPager"
+                attrs:piv_padding="12dp"
+                attrs:piv_radius="8dp" />
+
             <TextView
                 android:id="@+id/element_name"
-                android:layout_marginTop="8dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:text="@string/elemenent_name"
+                android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
                 android:layout_marginRight="8dp"
+                android:text="@string/element_name"
                 android:textColor="@color/black"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.0"
@@ -43,11 +62,11 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
+                android:layout_marginTop="8dp"
                 android:text="@string/element_category"
                 android:textColor="@color/black"
                 app:layout_constraintStart_toEndOf="@+id/viewPager"
-                app:layout_constraintTop_toBottomOf="@+id/element_name" />
+                app:layout_constraintTop_toBottomOf="@+id/element_text" />
 
             <TextView
                 android:id="@+id/element_appereance"
@@ -55,11 +74,11 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
-                android:text="@string/element_appereance"
+                android:layout_marginTop="8dp"
+                android:text="@string/element_appearance"
                 android:textColor="@color/black"
                 app:layout_constraintStart_toEndOf="@+id/viewPager"
-                app:layout_constraintTop_toBottomOf="@+id/element_category" />
+                app:layout_constraintTop_toBottomOf="@+id/category_text" />
 
             <TextView
                 android:id="@+id/element_discoverer"
@@ -67,11 +86,11 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
+                android:layout_marginTop="8dp"
                 android:text="@string/element_discoverer"
                 android:textColor="@color/black"
                 app:layout_constraintStart_toEndOf="@+id/viewPager"
-                app:layout_constraintTop_toBottomOf="@+id/element_appereance" />
+                app:layout_constraintTop_toBottomOf="@+id/appereance_text" />
 
             <TextView
                 android:id="@+id/element_namer"
@@ -79,11 +98,11 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
+                android:layout_marginTop="8dp"
                 android:text="@string/element_namer"
                 android:textColor="@color/black"
                 app:layout_constraintStart_toEndOf="@+id/viewPager"
-                app:layout_constraintTop_toBottomOf="@+id/element_discoverer" />
+                app:layout_constraintTop_toBottomOf="@+id/discoverer_text" />
 
             <TextView
                 android:id="@+id/element_mass"
@@ -91,11 +110,11 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
+                android:layout_marginTop="8dp"
                 android:text="@string/element_mass"
                 android:textColor="@color/black"
                 app:layout_constraintStart_toEndOf="@+id/viewPager"
-                app:layout_constraintTop_toBottomOf="@+id/element_namer" />
+                app:layout_constraintTop_toBottomOf="@+id/named_text" />
 
             <TextView
                 android:id="@+id/element_density"
@@ -103,11 +122,11 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
+                android:layout_marginTop="8dp"
                 android:text="@string/element_density"
                 android:textColor="@color/black"
                 app:layout_constraintStart_toEndOf="@+id/viewPager"
-                app:layout_constraintTop_toBottomOf="@+id/element_mass" />
+                app:layout_constraintTop_toBottomOf="@+id/mass_text" />
 
             <TextView
                 android:id="@+id/element_boil"
@@ -119,7 +138,7 @@
                 android:text="@string/element_boil"
                 android:textColor="@color/black"
                 app:layout_constraintStart_toEndOf="@+id/viewPager"
-                app:layout_constraintTop_toBottomOf="@+id/element_density" />
+                app:layout_constraintTop_toBottomOf="@+id/density_text" />
 
             <TextView
                 android:id="@+id/textView4"
@@ -127,11 +146,11 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="10dp"
+                android:layout_marginTop="8dp"
                 android:text="@string/element_description"
                 android:textColor="@color/black"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/viewPager" />
+                app:layout_constraintTop_toBottomOf="@+id/element_boil" />
 
             <TextView
                 android:id="@+id/element_text"
@@ -150,25 +169,21 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
                 android:text="TextView"
                 app:layout_constraintStart_toEndOf="@+id/element_category"
-                app:layout_constraintTop_toBottomOf="@+id/element_text" />
+                app:layout_constraintTop_toTopOf="@+id/element_category" />
 
-            <TextView
+            <androidx.appcompat.widget.AppCompatTextView
                 android:id="@+id/appereance_text"
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
-                android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
                 android:layout_marginEnd="8dp"
-                android:layout_marginRight="8dp"
                 android:text="TextView"
+                app:autoSizeTextType="uniform"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toEndOf="@+id/element_appereance"
-                app:layout_constraintTop_toBottomOf="@+id/category_text" />
+                app:layout_constraintTop_toTopOf="@+id/element_appereance" />
 
             <TextView
                 android:id="@+id/discoverer_text"
@@ -176,10 +191,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
                 android:text="TextView"
                 app:layout_constraintStart_toEndOf="@+id/element_discoverer"
-                app:layout_constraintTop_toBottomOf="@+id/appereance_text" />
+                app:layout_constraintTop_toTopOf="@+id/element_discoverer" />
 
             <TextView
                 android:id="@+id/named_text"
@@ -187,10 +201,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
                 android:text="TextView"
                 app:layout_constraintStart_toEndOf="@+id/element_namer"
-                app:layout_constraintTop_toBottomOf="@+id/discoverer_text" />
+                app:layout_constraintTop_toTopOf="@+id/element_namer" />
 
             <TextView
                 android:id="@+id/mass_text"
@@ -198,10 +211,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
                 android:text="TextView"
                 app:layout_constraintStart_toEndOf="@+id/element_mass"
-                app:layout_constraintTop_toBottomOf="@+id/named_text" />
+                app:layout_constraintTop_toTopOf="@+id/element_mass" />
 
             <TextView
                 android:id="@+id/density_text"
@@ -209,10 +221,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
                 android:text="TextView"
                 app:layout_constraintStart_toEndOf="@+id/element_density"
-                app:layout_constraintTop_toBottomOf="@+id/mass_text" />
+                app:layout_constraintTop_toTopOf="@+id/element_density" />
 
             <TextView
                 android:id="@+id/boil_text"
@@ -220,37 +231,32 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="8dp"
                 android:text="TextView"
                 app:layout_constraintStart_toEndOf="@+id/element_boil"
-                app:layout_constraintTop_toBottomOf="@+id/density_text" />
+                app:layout_constraintTop_toTopOf="@+id/element_boil" />
 
-            <TextView
+            <androidx.appcompat.widget.AppCompatTextView
                 android:id="@+id/description_text"
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
-                android:layout_marginLeft="8dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
-                android:layout_marginRight="8dp"
                 android:text="TextView"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
             <TextView
                 android:id="@+id/element_melt"
-                android:textColor="@color/black"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="24dp"
                 android:layout_marginLeft="24dp"
-                android:layout_marginTop="8dp"
                 android:text="@string/element_melt"
+                android:textColor="@color/black"
                 app:layout_constraintStart_toEndOf="@+id/boil_text"
-                app:layout_constraintTop_toBottomOf="@+id/density_text" />
+                app:layout_constraintTop_toTopOf="@+id/boil_text" />
 
             <TextView
                 android:id="@+id/melt_text"
@@ -258,10 +264,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="8dp"
                 android:text="TextView"
                 app:layout_constraintStart_toEndOf="@+id/element_melt"
-                app:layout_constraintTop_toBottomOf="@+id/density_text" />
+                app:layout_constraintTop_toTopOf="@+id/element_melt" />
 
             <TextView
                 android:id="@+id/element_phase"
@@ -269,11 +274,10 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="24dp"
                 android:layout_marginLeft="24dp"
-                android:layout_marginTop="7dp"
                 android:text="@string/element_phase"
                 android:textColor="@color/black"
                 app:layout_constraintStart_toEndOf="@+id/density_text"
-                app:layout_constraintTop_toBottomOf="@+id/mass_text" />
+                app:layout_constraintTop_toTopOf="@+id/density_text" />
 
             <TextView
                 android:id="@+id/phase_text"
@@ -281,10 +285,21 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="7dp"
                 android:text="TextView"
                 app:layout_constraintStart_toEndOf="@+id/element_phase"
-                app:layout_constraintTop_toBottomOf="@+id/mass_text" />
+                app:layout_constraintTop_toTopOf="@+id/element_phase" />
+
+            <ImageButton
+                android:id="@+id/imageButton"
+                style="@style/Widget.AppCompat.ImageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@null"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@mipmap/ic_launcher_round" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
