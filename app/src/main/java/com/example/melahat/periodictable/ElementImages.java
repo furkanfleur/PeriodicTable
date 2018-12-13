@@ -4,520 +4,581 @@ import java.util.Arrays;
 import java.util.List;
 
 public class ElementImages {
-
     public static List<List<Integer>> imageList = Arrays.asList(
             Arrays.asList(
-                    R.drawable.r_1_1,
-                    R.drawable.r_1_2,
-                    R.drawable.r_1_3
+                    R.drawable.hydrogen1,
+                    R.drawable.hydrogen2,
+                    R.drawable.hydrogen3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.helium1,
+                    R.drawable.helium2,
+                    R.drawable.helium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.lithium1,
+                    R.drawable.lithium2,
+                    R.drawable.lithium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.beryllium1,
+                    R.drawable.beryllium2,
+                    R.drawable.beryllium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.boron1,
+                    R.drawable.boron2,
+                    R.drawable.boron3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.carbon1,
+                    R.drawable.carbon2,
+                    R.drawable.carbon3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.nitrogen1,
+                    R.drawable.nitrogen2,
+                    R.drawable.nitrogen3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.oxygen1,
+                    R.drawable.oxygen2,
+                    R.drawable.oxygen3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.flourine1,
+                    R.drawable.flourine2,
+                    R.drawable.flourine3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.neon1,
+                    R.drawable.neon2,
+                    R.drawable.neon3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.sodium1,
+                    R.drawable.sodium2,
+                    R.drawable.sodium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.magnesium1,
+                    R.drawable.magnesium2,
+                    R.drawable.magnesium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.aluminum1,
+                    R.drawable.aluminum2,
+                    R.drawable.aluminum3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.silicon1,
+                    R.drawable.silicon2,
+                    R.drawable.silicon3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.phosporus1,
+                    R.drawable.phosporus2,
+                    R.drawable.phosporus3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.sulfur1,
+                    R.drawable.sulfur2,
+                    R.drawable.sulfur3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.chlorine1,
+                    R.drawable.chlorine2,
+                    R.drawable.chlorine3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.argon1,
+                    R.drawable.argon2,
+                    R.drawable.argon3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.potassium1,
+                    R.drawable.potassium2,
+                    R.drawable.potassium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.calcium1,
+                    R.drawable.calcium2,
+                    R.drawable.calcium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.scandium1,
+                    R.drawable.scandium2,
+                    R.drawable.scandium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.titanium1,
+                    R.drawable.titanium2,
+                    R.drawable.titanium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.vanadium1,
+                    R.drawable.vanadium2,
+                    R.drawable.vanadium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.chromium1,
+                    R.drawable.chromium2,
+                    R.drawable.chromium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.manganese1,
+                    R.drawable.manganese2,
+                    R.drawable.manganese3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.iron1,
+                    R.drawable.iron2,
+                    R.drawable.iron3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.cobalt1,
+                    R.drawable.cobalt2,
+                    R.drawable.cobalt3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.nickel1,
+                    R.drawable.nickel2,
+                    R.drawable.nickel3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.copper1,
+                    R.drawable.copper2,
+                    R.drawable.copper3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.zinc1,
+                    R.drawable.zinc2,
+                    R.drawable.zinc3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.gallium1,
+                    R.drawable.gallium2,
+                    R.drawable.gallium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.germanium1,
+                    R.drawable.germanium2,
+                    R.drawable.germanium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.arsenic1,
+                    R.drawable.arsenic2,
+                    R.drawable.arsenic3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.selenium1,
+                    R.drawable.selenium2,
+                    R.drawable.selenium3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.bromine1,
+                    R.drawable.bromine2,
+                    R.drawable.bromine3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.krypton1,
+                    R.drawable.krypton2,
+                    R.drawable.krypton3
             ),
             Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
-            ), Arrays.asList(
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background,
-                    R.drawable.ic_launcher_background
+                    R.drawable.rubidium1,
+                    R.drawable.rubidium2,
+                    R.drawable.rubidium3
+            ),
+            Arrays.asList(
+                    R.drawable.strontium1,
+                    R.drawable.strontium2,
+                    R.drawable.strontium3
+            ),
+            Arrays.asList(
+                    R.drawable.yttrium1,
+                    R.drawable.yttrium2,
+                    R.drawable.yttrium3
+            ),
+            Arrays.asList(
+                    R.drawable.zirconium1,
+                    R.drawable.zirconium2,
+                    R.drawable.zirconium3
+            ),
+            Arrays.asList(
+                    R.drawable.niobium1,
+                    R.drawable.niobium2,
+                    R.drawable.niobium3
+            ),
+            Arrays.asList(
+                    R.drawable.molybdenum1,
+                    R.drawable.molybdenum2,
+                    R.drawable.molybdenum3
+            ),
+            Arrays.asList(
+                    R.drawable.technetium1,
+                    R.drawable.technetium2,
+                    R.drawable.technetium3
+            ),
+            Arrays.asList(
+                    R.drawable.ruthenium1,
+                    R.drawable.ruthenium2,
+                    R.drawable.ruthenium3
+            ),
+            Arrays.asList(
+                    R.drawable.rhodium1,
+                    R.drawable.rhodium2,
+                    R.drawable.rhodium3
+            ),
+            Arrays.asList(
+                    R.drawable.palladium1,
+                    R.drawable.palladium2,
+                    R.drawable.palladium3
+            ),
+            Arrays.asList(
+                    R.drawable.silver1,
+                    R.drawable.silver2,
+                    R.drawable.silver3
+            ),
+            Arrays.asList(
+                    R.drawable.cadmium1,
+                    R.drawable.cadmium2,
+                    R.drawable.cadmium3
+            ),
+            Arrays.asList(
+                    R.drawable.indium1,
+                    R.drawable.indium2,
+                    R.drawable.indium3
+            ),
+            Arrays.asList(
+                    R.drawable.tin1,
+                    R.drawable.tin2,
+                    R.drawable.tin3
+            ),
+            Arrays.asList(
+                    R.drawable.antimony1,
+                    R.drawable.antimony2,
+                    R.drawable.antimony3
+            ),
+            Arrays.asList(
+                    R.drawable.tellurium1,
+                    R.drawable.tellurium2,
+                    R.drawable.tellurium3
+            ),
+            Arrays.asList(
+                    R.drawable.iodine1,
+                    R.drawable.iodine2,
+                    R.drawable.iodine3
+            ),
+            Arrays.asList(
+                    R.drawable.xenon1,
+                    R.drawable.xenon2,
+                    R.drawable.xenon3
+            ),
+            Arrays.asList(
+                    R.drawable.cesium1,
+                    R.drawable.cesium2,
+                    R.drawable.cesium3
+            ),
+            Arrays.asList(
+                    R.drawable.barium1,
+                    R.drawable.barium2,
+                    R.drawable.barium3
+            ),
+            Arrays.asList(
+                    R.drawable.lanthanum1,
+                    R.drawable.lanthanum2,
+                    R.drawable.lanthanum3
+            ),
+            Arrays.asList(
+                    R.drawable.cerium1,
+                    R.drawable.cerium2,
+                    R.drawable.cerium3
+            ),
+            Arrays.asList(
+                    R.drawable.praseodymium1,
+                    R.drawable.praseodymium2,
+                    R.drawable.praseodymium3
+            ),
+            Arrays.asList(
+                    R.drawable.neodymium1,
+                    R.drawable.neodymium2,
+                    R.drawable.neodymium3
+            ),
+            Arrays.asList(
+                    R.drawable.promethium1,
+                    R.drawable.promethium2,
+                    R.drawable.promethium3
+            ),
+            Arrays.asList(
+                    R.drawable.samarium1,
+                    R.drawable.samarium2,
+                    R.drawable.samarium3
+            ),
+            Arrays.asList(
+                    R.drawable.europium1,
+                    R.drawable.europium2,
+                    R.drawable.europium3
+            ),
+            Arrays.asList(
+                    R.drawable.gadolinium1,
+                    R.drawable.gadolinium2,
+                    R.drawable.gadolinium3
+            ),
+            Arrays.asList(
+                    R.drawable.terbium1,
+                    R.drawable.terbium2,
+                    R.drawable.terbium3
+            ),
+            Arrays.asList(
+                    R.drawable.dysprosium1,
+                    R.drawable.dysprosium2,
+                    R.drawable.dysprosium3
+            ),
+            Arrays.asList(
+                    R.drawable.holmium1,
+                    R.drawable.holmium2,
+                    R.drawable.holmium3
+            ),
+            Arrays.asList(
+                    R.drawable.erbium1,
+                    R.drawable.erbium2,
+                    R.drawable.erbium3
+            ),
+            Arrays.asList(
+                    R.drawable.thulium1,
+                    R.drawable.thulium2,
+                    R.drawable.thulium3
+            ),
+            Arrays.asList(
+                    R.drawable.ytterbium1,
+                    R.drawable.ytterbium2,
+                    R.drawable.ytterbium3
+            ),
+            Arrays.asList(
+                    R.drawable.lutetium1,
+                    R.drawable.lutetium2,
+                    R.drawable.lutetium3
+            ),
+            Arrays.asList(
+                    R.drawable.hafnium1,
+                    R.drawable.hafnium2,
+                    R.drawable.hafnium3
+            ),
+            Arrays.asList(
+                    R.drawable.tantalum1,
+                    R.drawable.tantalum2,
+                    R.drawable.tantalum3
+            ),
+            Arrays.asList(
+                    R.drawable.tungsten1,
+                    R.drawable.tungsten2,
+                    R.drawable.tungsten3
+            ),
+            Arrays.asList(
+                    R.drawable.rhenium1,
+                    R.drawable.rhenium2,
+                    R.drawable.rhenium3
+            ),
+            Arrays.asList(
+                    R.drawable.osmium1,
+                    R.drawable.osmium2,
+                    R.drawable.osmium3
+            ),
+            Arrays.asList(
+                    R.drawable.iridium1,
+                    R.drawable.iridium2,
+                    R.drawable.iridium3
+            ),
+            Arrays.asList(
+                    R.drawable.platinum1,
+                    R.drawable.platinum2,
+                    R.drawable.platinum3
+            ),
+            Arrays.asList(
+                    R.drawable.gold1,
+                    R.drawable.gold2,
+                    R.drawable.gold3
+            ),
+            Arrays.asList(
+                    R.drawable.mercury1,
+                    R.drawable.mercury2,
+                    R.drawable.mercury3
+            ),
+            Arrays.asList(
+                    R.drawable.thallium1,
+                    R.drawable.thallium2,
+                    R.drawable.thallium3
+            ),
+            Arrays.asList(
+                    R.drawable.lead1,
+                    R.drawable.lead2,
+                    R.drawable.lead3
+            ),
+            Arrays.asList(
+                    R.drawable.bismuth1,
+                    R.drawable.bismuth2,
+                    R.drawable.bismuth3
+            ),
+            Arrays.asList(
+                    R.drawable.polonium1,
+                    R.drawable.polonium2,
+                    R.drawable.polonium3
+            ),
+            Arrays.asList(
+                    R.drawable.astatine1,
+                    R.drawable.astatine2,
+                    R.drawable.astatine3
+            ),
+            Arrays.asList(
+                    R.drawable.radon1,
+                    R.drawable.radon2,
+                    R.drawable.radon3
+            ),
+            Arrays.asList(
+                    R.drawable.francium1,
+                    R.drawable.francium2,
+                    R.drawable.francium3
+            ),
+            Arrays.asList(
+                    R.drawable.radium1,
+                    R.drawable.radium2,
+                    R.drawable.radium3
+            ),
+            Arrays.asList(
+                    R.drawable.actinium1,
+                    R.drawable.actinium2,
+                    R.drawable.actinium3
+            ),
+            Arrays.asList(
+                    R.drawable.thorium1,
+                    R.drawable.thorium2,
+                    R.drawable.thorium3
+            ),
+            Arrays.asList(
+                    R.drawable.protactinium1,
+                    R.drawable.protactinium2,
+                    R.drawable.protactinium3
+            ),
+            Arrays.asList(
+                    R.drawable.uranium1,
+                    R.drawable.uranium2,
+                    R.drawable.uranium3
+            ),
+            Arrays.asList(
+                    R.drawable.neptunium1,
+                    R.drawable.neptunium2,
+                    R.drawable.neptunium3
+            ),
+            Arrays.asList(
+                    R.drawable.plutonium1,
+                    R.drawable.plutonium2,
+                    R.drawable.plutonium3
+            ),
+            Arrays.asList(
+                    R.drawable.americium1,
+                    R.drawable.americium2,
+                    R.drawable.americium3
+            ),
+            Arrays.asList(
+                    R.drawable.cruie1,
+                    R.drawable.cruie2,
+                    R.drawable.cruie3
+            ),
+            Arrays.asList(
+                    R.drawable.berkelium1
+            ),
+            Arrays.asList(
+                    R.drawable.californium1,
+                    R.drawable.californium2,
+                    R.drawable.californium3
+            ),
+            Arrays.asList(
+                    R.drawable.einstein1,
+                    R.drawable.einstein2,
+                    R.drawable.einstein3
+            ),
+            Arrays.asList(
+                    R.drawable.fermium1,
+                    R.drawable.fermium2,
+                    R.drawable.fermium3
+            ),
+            Arrays.asList(
+                    R.drawable.mendelevium1,
+                    R.drawable.mendelevium2,
+                    R.drawable.mendelevium3
+            ),
+            Arrays.asList(
+                    R.drawable.nobelium1,
+                    R.drawable.nobelium2,
+                    R.drawable.nobelium3
+            ),
+            Arrays.asList(
+                    R.drawable.lawrencium1,
+                    R.drawable.lawrencium2,
+                    R.drawable.lawrencium3
+            ),
+            Arrays.asList(
+                    R.drawable.rutherford1,
+                    R.drawable.rutherford2,
+                    R.drawable.rutherford3
+            ),
+            Arrays.asList(
+                    R.drawable.dubnium1
+            ),
+            Arrays.asList(
+                    R.drawable.seaborg1,
+                    R.drawable.seaborg2,
+                    R.drawable.seaborg3
+            ),
+            Arrays.asList(
+                    R.drawable.bohrium1,
+                    R.drawable.bohrium2,
+                    R.drawable.bohrium3
+            ),
+            Arrays.asList(
+                    R.drawable.hassium1
+            ),
+            Arrays.asList(
+                    R.drawable.meitnerium1,
+                    R.drawable.meitnerium2,
+                    R.drawable.meitnerium3
+            ),
+            Arrays.asList(
+                    R.drawable.darmstadtium1
+            ),
+            Arrays.asList(
+                    R.drawable.roentgenium1,
+                    R.drawable.roentgenium2,
+                    R.drawable.roentgenium3
+            ),
+            Arrays.asList(
+                    R.drawable.copernic1,
+                    R.drawable.copernic2,
+                    R.drawable.copernic3
+            ),
+            Arrays.asList(
+                    R.drawable.nihonium1
+            ),
+            Arrays.asList(
+                    R.drawable.fylorov1,
+                    R.drawable.fylorov2,
+                    R.drawable.fylorov3
+            ),
+            Arrays.asList(
+                    R.drawable.moscovium1
+            ),
+            Arrays.asList(
+                    R.drawable.livermorium1
+            ),
+            Arrays.asList(
+                    R.drawable.tennessine1
+            ),
+            Arrays.asList(
+                    R.drawable.oganesson1
+            ),
+            Arrays.asList(
+                    R.drawable.ununennium1
             )
     );
 
